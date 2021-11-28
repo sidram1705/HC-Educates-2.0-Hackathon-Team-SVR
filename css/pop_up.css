@@ -1,0 +1,81 @@
+#overlay {
+    width: 100%;
+    height: 100%;
+    top:0;
+    left:0;
+    /* background: #1a1a1a; */
+    position: fixed;
+    display: none;
+    opacity: 1;
+    z-index: 2;
+  }
+  
+  .overlay-active {
+    display: block !important;
+  }
+  
+  .pop-up {
+    display: none;
+    z-index:4;
+  }
+  
+  .pop-up-active {
+    display: block !important;
+  }
+  
+  .pop-body {
+    background: white;
+    padding: 20px;
+    width: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translateX(-50%) translatey(-50%);
+    -moz-transform: translateX(-50%) translatey(-50%);
+    transform: translateX(-50%) translatey(-50%);
+    opacity: 0.9;
+    -webkit-box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.75);
+    z-index: 333;
+  }
+  
+  .pop-body h3 {
+    text-transform: uppercase;
+    display: block;
+  }
+  
+  .pop-body p {
+    text-align: justify;
+  }
+  
+  .btn-close {
+    border: none;
+    float: right;
+    display: inline-block;
+    background: none;
+    font-weight: bold;
+  }
+  
+  .btn-open {
+    /* color: black;
+    background: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: none;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translateX(-50%) translatey(-50%);
+    -moz-transform: translateX(-50%) translatey(-50%);
+    transform: translateX(-50%) translatey(-50%);
+    opacity: 0.7;
+    padding: 25px 50px;
+    -webkit-box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.75); */
+  }
+  
+  .btn-open:hover {
+    opacity: 1;
+  }
