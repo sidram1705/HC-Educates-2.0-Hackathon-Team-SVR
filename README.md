@@ -15,4 +15,9 @@ In order to use this Augmented Reality function:
 4. The link will re-direct the user to the Echo3d website, where the "See in AR" option can be located.
 5. Click the "See in AR" option and see the piece of clothing appear before in an Augmented Reality fashion.
 
-With this project, we hope to simplify and add "fun" into the online shopping experience. Not only this, we realize that the Domain of Augmented Reality has many applications and we have learnt a lot as to how it can be applied in the real world.
+With this project, we hope to simplify and add "fun" into the online shopping experience. Not only this, we realize that the Domain of Augmented Reality has many applications and we have learnt a lot as to how it can be applied in the real world.  
+
+Contributors:
+1. Siddharth Ramanathan
+2. K S Vikash
+3. Ravikiran V
