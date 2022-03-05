@@ -17,6 +17,8 @@ In order to use this Augmented Reality function:
 
 With this project, we hope to simplify and add "fun" into the online shopping experience. Not only this, we realize that the Domain of Augmented Reality has many applications and we have learnt a lot as to how it can be applied in the real world.  
 
+Deployment link: https://sidram1705.github.io/HC-Educates-2.0-Hackathon-Team-SVR/
+
 Contributors:
 1. Siddharth Ramanathan
 2. K S Vikash
